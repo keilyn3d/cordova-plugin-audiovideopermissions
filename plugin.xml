@@ -4,13 +4,13 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="cordova-plugin-camera"
-    version="1.1.1-dev">
+    version="1.0.0-dev">
     <name>Audio Video Permissions</name>
     <description>Cordova audio/video permissions for getUserMedia</description>
     <license>Apache 2.0</license>
     <keywords>cordova,audio,video,permissions,getUserMedia</keywords>
-    
-
+    <repo>https://github.com/vbraun/cordova-plugin-audiovideopermissions</repo>
+    <issue>https://github.com/vbraun/cordova-plugin-audiovideopermissions/issues</issue>
 
 
     <!-- android -->
