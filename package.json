@@ -17,7 +17,7 @@
     "audiovideopermisions",
     "getusermedia",
     "ecosystem:cordova",
-    "cordova-android",
+    "cordova-android"
   ],
   "author": "Volker Braun",
   "license": "Apache-2.0",
